@@ -1,6 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useState } from 'react';
-import { Image, StyleSheet, Text, View } from 'react-native';
+import { Dimensions, Image, StyleSheet, Text, View } from 'react-native';
+import { TouchableOpacity } from 'react-native-web';
+
 
 export default function App() {
 
@@ -9,6 +11,10 @@ export default function App() {
   
 
   const baseURL = 'https://api.otaviolube.com/api/filmes?populate=*';
+  
+  const MAX_WIDTH = Dimensions.get('window').width*0.8;
+  const MAX_HEIGHT =  Dimensions.get('window').height*0.6;
+
   
   useEffect(function(){
     fetch(baseURL)
@@ -48,12 +54,23 @@ return (
         <Text>{filme.attributes.titulo} </Text>
         <Text>{filme.attributes.sinopse}</Text>
 
+        
+        <TouchableOpacity style={styles.button}>
+          <Text>Comprar</Text>
+        </TouchableOpacity>
+
         <View style={styles.viewImagem}>
                 
           <Image
           source={{ uri: 'https://api.otaviolube.com/'+ filme.attributes.poster }}
           style={styles.imagem}
           />
+            
+            <Image
+          source={{ uri: baseURL + filme.poster.data.attributes.url }}
+          style={styles.imagem}
+          />
+          
 
         </View>
             
@@ -75,6 +92,19 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  texto: {
+    backgroundColor: 'yellow',
+    margin: '30px',
+    alignContent: 'center',
+    height: 'MAX_HEIGHT',
+    width: 'MAX_WIDTH'
+
+  },
+  button: {
+    textAlign: 'center'
+  },
+
+
   imagem: {
     width: 100,
     height: 100
