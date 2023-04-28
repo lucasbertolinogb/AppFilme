@@ -7,6 +7,12 @@ Aviso: para quem olhar isso os códigos eu dou meus créditos para o professor o
 
 atalhos para criar um app com react native:
 
-create expo-app <nome qualquer>
+npx create-expo-app <nome qualquer>
 
-npm rum web
+cd <nome usado>
+
+npm rum web -vai ter que baixar as dependências e usar
+
+npm rum web de novo
+
+code . -vai abrir ela no visual code
