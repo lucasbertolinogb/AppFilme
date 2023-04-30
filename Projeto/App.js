@@ -1,4 +1,4 @@
-import { Image, StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 import { useEffect, useState } from 'react';
 import CardFilme from './src/components';
 
@@ -23,7 +23,7 @@ export default function App() {
 return (
   <View style={style.container}>
     
-    {filmes.length > 0 ? filmes.map(filme => <CardFilme filme={filme.attributes}/>) : 
+    {filmes.length > 0 ? filmes.map(filme => <CardFilme key={filme.id} filme={filme.attributes}/>) : 
     <Text style={{}}>Carregando</Text>}
       
   </View>
