@@ -33,14 +33,14 @@ E pronto já baixou tudo o que precisa para mexer no react native , porém ainda
 
 *Crie um folder (pasta) chamada src
 
-*Dentro deste src crir outra chamada components
+*Dentro deste src crie outra chamada components
 
 ><p>Para ficar mais fácil de usar-las vai até as configurações (a imagem de engrenagem) e aperte em settings <br>
 >e escreva -Compact Folder- e desative esta função</p>
 
 *Agora dentro do componets crie um file chamado index.js e outro chamado styles.js 
 
->este .js é que o uso da linguagem é em JavaScript
+>este .js indica ao sistema a linguagem usada, mais especificamente o JavaScript
 
 <p>Esta feito as pasta ... agora copie meus códigos e de -Crtl + s- para cada file com os códigos e pronto <br>
   você tem meu projeto na web</p>
