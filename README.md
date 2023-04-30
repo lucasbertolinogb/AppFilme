@@ -21,7 +21,7 @@ Atalhos para criar um app com react native:
 
 *npm rum web 
 
->Dentro deste npm rum web vai faltar algumas dependências e você vai ter que baixa-las para pode ver seu app
+>Dentro deste npm rum web vai faltar algumas dependências e você vai ter que baixa-las para ver o seu app
 
 *npm rum web 
 
