@@ -25,7 +25,7 @@ Atalhos para criar um app com react native:
 
 *npm rum web 
 
-E pronto já baixou tudo o que precisa para mexer no meu projeto
+E pronto já baixou tudo o que precisa para mexer no react native , porém ainda falta alguns pequenos detalhes.
 
 ``Pastas usadas``
 
