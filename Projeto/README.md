@@ -1,1 +1,1 @@
-**Obs:** Este é os códigos para o projeto de otávio lube
+**Obs:** Este são os códigos para o projeto de otávio lube
