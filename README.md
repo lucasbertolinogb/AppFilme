@@ -1,6 +1,6 @@
 # AppFilme
 
-OBS: os códigos para o projeto esta na pasta projeto e não em teste 
+OBS: os códigos para o projeto estão na pasta projeto e não em teste 
 
 Minha base para criar um projeto 100% JavaScript com react native na web junto do professor Otávio Lube
 
