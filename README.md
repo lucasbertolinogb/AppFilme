@@ -5,18 +5,34 @@ Aviso: para quem olhar isso os códigos eu dou meus créditos para o professor o
 
 ``Como implementar o react native``
 
->Para o react native precisa usar o expo que eu descrevo aqui em baixo
-
-atalhos para criar um app com react native:
+>Para o react native precisa usar o expo que eu descrevo aqui em baixo<br>
+Atalhos para criar um app com react native:
 
 *npx create-expo-app *nome qualquer*
 
 *cd *nome usado*
 
+>Dica: já tenha baixado o visual studio code pois a próxima instrução vai usa-la 
+
+*code .
+
+>Este code . vai leva-lo ao visual studio code para você ver os códigos
+
 *npm rum web 
 
->dentro deste npm rum web vai faltar algumas dependências e você vai ter que baixa-las para pode ver seu app
+>Dentro deste npm rum web vai faltar algumas dependências e você vai ter que baixa-las para pode ver seu app
 
 *npm rum web 
 
-code . -vai abrir ela no visual code
+E pronto já baixou tudo o que precisa para mexer no meu projeto
+
+``Pastas usadas``
+
+>Esta parte são as pastas usadas para não ter erro no código , pois, tem partes que vão bugar se não fize-las corretamente
+
+*Crie um folder (pasta) chamada src
+
+*Dentro deste scr crir outra chamada components
+
+
+
