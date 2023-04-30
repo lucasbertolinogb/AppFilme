@@ -8,7 +8,7 @@ export default function CardFilme({ filme }){
     return (
          <View style={styles.box}>
            
-            <Image style={styles.imagem}source={{ uri: baseUrl + filme.poster.data.attributes.url }}/>
+            <Image style={styles.imagem}source={{ uri: baseUrl + filme.poster.data.attributes.formats.thumbnail.url }}/>
            
             <Text style={styles.titulo}>{filme.titulo} </Text>
 
