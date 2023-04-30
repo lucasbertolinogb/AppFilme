@@ -5,7 +5,7 @@ Aviso: para quem olhar isso os códigos eu dou meus créditos para o professor o
 
 ``Como implementar o react native``
 
->Para 
+>Para o react native precisa usar o expo que eu descrevo aqui em baixo
 
 atalhos para criar um app com react native:
 
