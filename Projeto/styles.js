@@ -10,19 +10,15 @@ const styles = StyleSheet.create({
       backgroundColor: '#fff',
       alignItems: 'center',
       justifyContent: 'center',
+      height: MAX_HEIGHT,
+      width: MAX_WIDTH
       
     },
-    texto: {
-      backgroundColor: 'yellow',
-      margin: '30px',
-      alignContent: 'center',
-      height: 'MAX_HEIGHT',
-      width: 'MAX_WIDTH'
-    },
     button: {
-      textAlign: 'center',
+      alignItems: 'center',
       padding: '10px',
       backgroundColor: '#00ffff',
+      width: '90%'
     },
     buttomLetra: {
       fontSize: '20px',
@@ -35,13 +31,6 @@ const styles = StyleSheet.create({
     },
     sinopse: {
       marginBottom: 10
-    },
-    scrollViewContent: {
-      flexDirection: 'row',  
-      flexGrow: 1,
-      alignItems: 'center',
-      justifyContent: 'center',
-      
     },
     box: {
       backgroundColor: 'yellow',
