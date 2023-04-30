@@ -13,7 +13,9 @@ npx create-expo-app *nome qualquer*
 
 cd *nome usado*
 
-npm rum web >vai ter que baixar as dependências e usar
+npm rum web 
+
+>vai ter que baixar as dependências e usar
 
 npm rum web de novo
 
