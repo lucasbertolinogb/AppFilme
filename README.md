@@ -5,7 +5,8 @@ Aviso: para quem olhar isso os códigos eu dou meus créditos para o professor o
 
 ``Como implementar o react native``
 
->Para o react native precisa usar o expo que eu descrevo aqui em baixo<br>
+>Para o react native precisa usar o expo que eu descrevo aqui em baixo
+
 Atalhos para criar um app com react native:
 
 *npx create-expo-app *nome qualquer*
@@ -32,7 +33,10 @@ E pronto já baixou tudo o que precisa para mexer no meu projeto
 
 *Crie um folder (pasta) chamada src
 
-*Dentro deste scr crir outra chamada components
+*Dentro deste srr crir outra chamada components
+
+><p>Para ficar mais fácil de usar-las vai até as configurações (a imagem de engrenagem) e aperte em settings 
+  </p>
 
 
 
