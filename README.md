@@ -36,7 +36,7 @@ E pronto já baixou tudo o que precisa para mexer no meu projeto
 *Dentro deste srr crir outra chamada components
 
 ><p>Para ficar mais fácil de usar-las vai até as configurações (a imagem de engrenagem) e aperte em settings <br>
-  e escreva -Compact Folder- e desative esta função</p>
+>e escreva -Compact Folder- e desative esta função</p>
 
 
 
