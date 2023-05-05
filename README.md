@@ -5,6 +5,12 @@ OBS: os códigos para o projeto estão na pasta projeto e não em teste
 Minha base para criar um projeto 100% JavaScript com react native na web junto do professor Otávio Lube
 
 Aviso: para quem olhar os códigos eu dou meus créditos para o professor otávio e caso queiram dar uma estudada em JavaScript : https://www.youtube.com/watch?v=8dWL3wF_OMw&t=16s&ab_channel=BroCode
+bibliotecas usadas : 
+
+https://reactnative.dev/docs/components-and-apis
+
+https://reactnavigation.org/docs/getting-started/
+
 
 ``Como implementar o react native``
 
