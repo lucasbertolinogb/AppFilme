@@ -8,7 +8,7 @@ Aviso: para quem olhar os códigos eu dou meus créditos para o professor otávi
 
 ``bibliotecas usadas :`` 
 
-https://reactnative.dev/docs/components-and-apis
+https://reactnative.dev/docs/intro-react
 
 https://reactnavigation.org/docs/getting-started/
 
