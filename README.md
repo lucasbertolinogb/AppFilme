@@ -12,7 +12,7 @@ https://reactnative.dev/docs/intro-react
 
 https://reactnavigation.org/docs/getting-started/
 
->Esta parte eu não uso para a pasta Teste e projeto , somente usado na pasta Pasta_Login
+>Esta reactnavigation eu não uso para a pasta Teste e projeto , somente usado na pasta Pasta_Login
 
 
 ``Como implementar o react native``
