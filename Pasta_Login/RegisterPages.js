@@ -1,4 +1,4 @@
-import { Text, StyleSheet, View } from "react-native-web";
+import { Text, StyleSheet, View, Button } from "react-native-web";
 import { useNavigation } from '@react-navigation/native';
 
 
@@ -10,8 +10,10 @@ export default function RegisterPages(){
       };
     
     return(
-        <Button title="Go to Profile" onPress={goToProfile} />
-        
+        <View>
+            <Text>Register Page</Text>
+            <Button title="Go to Profile" onPress={goToProfile} />
+        </View>
     
     
     );
