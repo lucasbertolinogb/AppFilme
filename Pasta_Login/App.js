@@ -2,6 +2,8 @@ import RegisterPages from "./src/components/RegisterPages";
 import LoginPages from "./src/components/LoginPages";
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import 'react-native-gesture-handler';
+import { NavigationContainer } from '@react-navigation/native';
+
 
 const Stack = createNativeStackNavigator();
 
