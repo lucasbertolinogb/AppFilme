@@ -5,9 +5,11 @@ https://reactnavigation.org/docs/header-buttons
 
 coloque essas extenções:
 
-npm install @react-navigation/stack ****
+npm install @react-navigation/stack 
 
-npm install @react-navigation/native-stack ****
+npm install @react-navigation/native
+
+npm install @react-navigation/native-stack
 
 npx expo install react-native-gesture-handler
 
