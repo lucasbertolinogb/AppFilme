@@ -6,13 +6,14 @@ import 'react-native-gesture-handler';
 
 export default function LoginPages(){
     return(
-        <View>
-            <Text> Teste login</Text>
-            <Link></Link>
-        </View>
-    )
-
-}
+        <View style={styles.container}>
+        <Text>Teste login</Text>
+        <TouchableOpacity onPress={handleLinkPress}>
+          <Text>Link</Text>
+        </TouchableOpacity>
+      </View>
+    );
+  }
 
 
 const styles = StyleSheet.create({
