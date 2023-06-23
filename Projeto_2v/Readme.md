@@ -4,7 +4,10 @@ Olá eu sou Lucas Bertolino e eu serei seu guia neste projeto 2º versão
 
 Ele é um projeto melhorado do AppFilme proposto na pasta Projeto , ou seja, 
 ela é a continuação do projeto , porém por causa deste projeto ser um trabalho 
-com parte 1 e 2 , eu acabei por dividi-las e juntar no mesmo repositório 
+com parte 1 e 2 , eu acabei por dividi-las e juntar no mesmo repositório
+
+>obs: este trabalho tem mudanças nas pastas do 1º projeto(anterior) para o 2º
+>projeto(este) que eu acabei percenbendo a bangunça só quando eu fui verificando 
 
 ``Como usa-los?``
 
