@@ -49,5 +49,9 @@ Como você deve ter visto este projeto esta sendo o maior projeto em tamanho (at
 
 ``Créditos``
 
-Primeiramente devo dar os créditos do trabalho ao professor Otávio por mostrar como fazer este projeto gigantesco e bem estruturado
+Primeiramente devo dar os créditos do trabalho ao professor Otávio por mostrar como fazer este projeto gigantesco e bem estruturado,
 
+Segundo para quem fez o react_native e react-navigation por poder usa-lo neste 
+projeto
+
+E terceiro ... para a pessoa que eu peguei a foto que eu não sei de quem é 
