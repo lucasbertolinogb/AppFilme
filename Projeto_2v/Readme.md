@@ -15,25 +15,23 @@ Logo para usa-lo tem que usar os comandos proposto no início deste repositório
 
 Seguindo este passo a passo: 
 
-Atalhos para criar um app com react native:
-
 *npx create-expo-app nome qualquer
 
 *cd nome usado
 
-Dica: já tenha baixado o visual studio code pois a próxima instrução vai usa-la
+>Dica: já tenha baixado o visual studio code pois a próxima instrução vai usa-la
 
 *code .
 
-Este code . vai leva-lo ao visual studio code para você ver os códigos
+>Este code . vai leva-lo ao visual studio code para você ver os códigos
 
 *npm rum web
 
-Dentro deste npm rum web vai faltar algumas dependências e você vai ter que baixa-las para ver o seu app
+>Dentro deste npm rum web vai faltar algumas dependências e você vai ter que baixa-las para ver o seu app
 
 *npm rum web
 
-e depois as extensões que tem que ser usadas uma por uma : 
+E depois as extensões que tem que ser usadas uma por uma : 
 
 npm install @react-navigation/native
 
