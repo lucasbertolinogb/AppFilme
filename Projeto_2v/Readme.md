@@ -12,7 +12,7 @@ com parte 1 e 2 , eu acabei por dividi-las e juntar no mesmo repositório
 ``Como usa-los?``
 
 Este projeto tem a mesma base aprensentado incialmente, portanto tem o uso 
-100% javascript com frameworks do react-native, react-navigation.
+100% javascript com as bibliotecas do react-native, react-navigation.
 
 Logo para usa-lo tem que usar os comandos proposto aqui em baixo
 
@@ -51,7 +51,7 @@ Como você deve ter visto este projeto esta sendo o maior projeto em tamanho (at
 
 Primeiramente devo dar os créditos do trabalho ao professor Otávio por mostrar como fazer este projeto gigantesco e bem estruturado,
 
-Segundo para quem fez o react_native e react-navigation por poder usa-lo neste 
+Segundo para quem fez o react-native e react-navigation por poder usa-lo neste 
 projeto
 
 E terceiro ... para a pessoa que eu peguei a foto que eu não sei de quem é 
