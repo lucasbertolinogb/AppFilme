@@ -11,7 +11,7 @@ com parte 1 e 2 , eu acabei por dividi-las e juntar no mesmo repositório
 Este projeto tem a mesma base aprensentado incialmente, portanto tem o uso 
 100% javascript com frameworks do react-native, react-navigation.
 
-Logo para usa-lo tem que usar os comandos proposto no início deste repositório
+Logo para usa-lo tem que usar os comandos proposto aqui em baixo
 
 ### Seguindo este passo a passo: 
 
