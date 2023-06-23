@@ -31,7 +31,7 @@ Seguindo este passo a passo:
 
 *npm rum web
 
-E depois as extensões que tem que ser usadas uma por uma : 
+### E depois as extensões que tem que ser usadas uma por uma : 
 
 npm install @react-navigation/native
 
