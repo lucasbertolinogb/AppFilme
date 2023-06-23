@@ -13,7 +13,7 @@ Este projeto tem a mesma base aprensentado incialmente, portanto tem o uso
 
 Logo para usa-lo tem que usar os comandos proposto no início deste repositório
 
-Seguindo este passo a passo: 
+### Seguindo este passo a passo: 
 
 *npx create-expo-app nome qualquer
 
