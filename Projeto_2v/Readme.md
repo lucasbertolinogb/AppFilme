@@ -49,5 +49,5 @@ Como você deve ter visto este projeto esta sendo o maior projeto em tamanho (at
 
 ``Créditos``
 
-Primeiramente deve dar os créditos do trabalho ao professor Otávio por mostrar como fazer este projeto gigantesco e bem estruturado
+Primeiramente devo dar os créditos do trabalho ao professor Otávio por mostrar como fazer este projeto gigantesco e bem estruturado
 
